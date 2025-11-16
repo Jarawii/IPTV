@@ -330,11 +330,8 @@ https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="110" tvg-name="BigAsia HD" tvg-logo="https://i.imgur.com/bigasia-logo.png" group-title="Internacional",BigAsia HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="111" tvg-name="Sochi Live HD" tvg-logo="https://i.imgur.com/sochi-logo.png" group-title="Internacional",Sochi Live HD
-http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+#EXTINF:-1 tvg-id="111" tvg-name="TC" tvg-logo="https://i.imgur.com/sochi-logo.png" group-title="Internacional",Sochi Live HD
+https://live.eu-north-1b.cf.dmcdn.net/sec2(sR_qJvetkxsP8zWsxmnHob7SqfBWCQWEcGtHh9xV6f5P758hI3dD3FvAXivfMSd31U-FGr1GV1XhwEnXVl_CnQEMmbF-mjpZpJCnOHaSLOg--LI_OBhBoDJZt_jlkrZv)/dm/3/x7wijay/s/live-720.m3u8#cell=lcf-eu-north-1b
 
-#EXTINF:-1 tvg-id="113" tvg-name="RINGHD" tvg-logo="https://i.imgur.com/ringhd-logo.png" group-title="Internacional",RTS
-https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
-
-#EXTINF:-1 tvg-id="114" tvg-name="CITYRADIO" tvg-logo="https://i.imgur.com/cityradio-logo.png" group-title="Internacional",RTU
+#EXTINF:-1 tvg-id="114" tvg-name="RTU" tvg-logo="https://i.imgur.com/cityradio-logo.png" group-title="Internacional",RTU
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
