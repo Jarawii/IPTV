@@ -330,8 +330,7 @@ https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-1 tvg-id="110" tvg-name="BigAsia HD" tvg-logo="https://i.imgur.com/bigasia-logo.png" group-title="Internacional",BigAsia HD
 https://live.eu-north-1b.cf.dmcdn.net/sec2(sR_qJvetkxsP8zWsxmnHob7SqfBWCQWEcGtHh9xV6f5P758hI3dD3FvAXivfMSd31U-FGr1GV1XhwEnXVl_CnQEMmbF-mjpZpJCnOHaSLOg--LI_OBhBoDJZt_jlkrZv)/dm/3/x7wijay/s/live-720.m3u8#cell=lcf-eu-north-1b
 
-#EXTINF:-1 tvg-id="111" tvg-name="TC" tvg-logo="https://i.imgur.com/sochi-logo.png" group-title="Internacional",Sochi Live HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(sR_qJvetkxsP8zWsxmnHob7SqfBWCQWEcGtHh9xV6f5P758hI3dD3FvAXivfMSd31U-FGr1GV1XhwEnXVl_CnQEMmbF-mjpZpJCnOHaSLOg--LI_OBhBoDJZt_jlkrZv)/dm/3/x7wijay/s/live-720.m3u8#cell=lcf-eu-north-1b
+#EXTINF:-1 tvg-id="111" tvg-name="TC" tvg-logo="https://i.imgur.com/sochi-logo.png" group-title="Internacional",Sochi Live HD https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8?sec=qM2INUAwqK0ml3H8ITTBjEU3KiV1IUyOB0xN3FNx7QlnOoFE-Usj6utRpFWA6N8AnHw4q79gyNtJNGud3fmwHPCaoxvCZzeQZseQWB9MJvMq6clp_u1IQDP7vJ4kn2m3&dmTs=191126&dmV1st=dfbadca4-0793-2b97-10b4-c7845f49db95
 
 #EXTINF:-1 tvg-id="114" tvg-name="RTU" tvg-logo="https://i.imgur.com/cityradio-logo.png" group-title="Internacional",RTU
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
