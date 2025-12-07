@@ -17,7 +17,7 @@ http://181.119.86.68:8000/play/c003/index.m3u8
 http://179.51.136.19:8000/play/a1g3/index.m3u8
 #EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300",DISTRITO COMEDIA
 http://181.119.85.222:8000/play/a02f/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ecuador_TV.jpg",ECUADORTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png",ECUAVISA
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO
 http://181.189.244.253:8000/play/a018/index.m3u8
