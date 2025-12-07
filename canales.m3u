@@ -83,10 +83,3 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/20
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/22
 #EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⚽Wuan+.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpaqHJHbKYzX9GE4eh1T5_srU3qgKKClS_TA&s" group-title="ECUADOR™️",⚽Wuan+.ec
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/24
-#EXTINF:-1 tvg-id="342" tvg-logo="http://img.tvcluboficial.com/canaldelfutbol.png",El Canal Del Futbol
-http://m3u.tvcluboficial.com/free/free_Ivan_6ND/DdM/342.m3u8
-#EXTINF:-1 tvg-id="344" tvg-logo="http://img.tvcluboficial.com/elchavodel8.png",El Chavo del 8 24/7
-http://m3u.tvcluboficial.com/free/free_Ivan_6ND/DdM/344.m3u8
-#EXTINF:-1 tvg-id="346" tvg-logo="http://img.tvcluboficial.com/elcoyote.png",El Coyote y el Correcaminos 24/7
-http://m3u.tvcluboficial.com/free/free_Ivan_6ND/DdM/346.m3u8
-#EXTINF:-1 tvg-id="347" tvg-logo="http://img.tvcluboficial.com/elgalloclaudio.png",El Gallo Claudio 24/7
