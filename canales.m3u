@@ -49,3 +49,5 @@ http://181.119.86.68:8000/play/b023/index.m3u8
 http://181.119.85.222:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/08/tooncast.jpg",TOONCAST
 http://179.51.136.19:8000/play/a0wh/index.m3u8
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⚽Ecuavisa Ec HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/ecuavisar1ec.jpg" group-title="ECUADOR™️",⚽Ecuavisa Ec HD
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/9
