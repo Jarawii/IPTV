@@ -83,3 +83,5 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/20
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/22
 #EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⚽Wuan+.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpaqHJHbKYzX9GE4eh1T5_srU3qgKKClS_TA&s" group-title="ECUADOR™️",⚽Wuan+.ec
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/24
+#EXTINF:-1 tvg-id="Investigation Discovery.uy" tvg-name="Discovery ID" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSID.png?raw=true" group-title="ARGENTINA FULL" ch-number="403" type="channel",Discovery ID
+https://cdn-py.cvattv.com.ar/live/c7eds//ID/SA_Live_dash_enc/ID.mpd?|origin=https://web.app.flow.com.ar
