@@ -29,6 +29,8 @@ http://179.51.136.19:8000/play/a0q4/index.m3u8
 http://179.51.136.19:8000/play/a1aa/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg",STUDIO UNIVERSAL
 http://181.119.86.68:8000/play/c024/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="SPACE" tvg-logo="https://i.imgur.com/space-logo.png" group-title="Películas",SPACE
+http://181.78.106.127:9000/play/ca072/index.m3u8
 #EXTINF:-1 tvg-id="95" tvg-name="Tlnovelas" tvg-logo="https://i.imgur.com/tlnovelas-logo.png" group-title="Novelas",Tlnovelas
 http://181.119.85.222:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/08/tooncast.jpg",TOONCAST
