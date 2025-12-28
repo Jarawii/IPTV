@@ -34,7 +34,7 @@ http://181.78.106.127:9000/play/ca072/index.m3u8
 #EXTINF:-1 tvg-id="95" tvg-name="Tlnovelas" tvg-logo="https://i.imgur.com/tlnovelas-logo.png" group-title="Novelas",Tlnovelas
 http://181.119.85.222:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/08/tooncast.jpg",TOONCAST
-http://179.51.136.19:8000/play/a0wh/index.m3u8
+https://cablered.iptvperu.tv:1936/Cablered/Tooncast/playlist.m3u8
 #EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⭐⭐⭐ESTRENOS/24/7.ec⭐⭐⭐" tvg-logo="https://img.webme.com/pic/h/hdtitilo/photo_2025-07-09_08-24-07.jpg" group-title="PPV/EVENTS™️",⭐⭐⭐ESTRENOS/24/7.ec⭐⭐⭐
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/15
 #EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⭐⚽===⭐⚽EVENTOS DIARIOS⚽⭐===⚽⭐" tvg-logo="https://img.webme.com/pic/h/hdtitilo/photo_2025-07-09_08-24-07.jpg" group-title="PPV/EVENTS™️",⭐⚽===⭐⚽EVENTOS DIARIOS⚽⭐===⚽⭐
